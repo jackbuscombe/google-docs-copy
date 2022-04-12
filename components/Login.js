@@ -20,7 +20,6 @@ function Login() {
       >
         Login
       </Button>
-      {/* <button className="bg-blue-400">Login</button> */}
     </div>
   )
 }
